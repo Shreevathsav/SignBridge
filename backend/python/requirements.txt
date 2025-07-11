@@ -1,4 +1,4 @@
-fasttext==0.9.3
+fastapi==0.116.0
 transformers==4.53.2
 onnx==1.18.0
 optimum==1.26.1
